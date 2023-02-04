@@ -1,0 +1,1 @@
+obj_internet_img.script1 = 1

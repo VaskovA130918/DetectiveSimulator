@@ -1,0 +1,2 @@
+instance_deactivate_object(self)
+instance_activate_object(obj_start_screen)
